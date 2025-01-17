@@ -1,0 +1,19 @@
+
+package ParcticeDemo;
+
+public class All {
+
+	public static void main(String[] args) {
+
+	//2. retational == != < > <= >=
+
+
+	int c=30,d=40;
+	System.out.println(c==d);
+	System.out.println(c!=d);
+	System.out.println(c<d);
+	System.out.println(c>d);
+	System.out.println(c<=d);
+	System.out.println(c>=d);
+  }
+}

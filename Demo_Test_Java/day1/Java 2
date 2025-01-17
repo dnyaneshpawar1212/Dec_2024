@@ -1,0 +1,19 @@
+package ParcticeDemo;
+
+public class All {
+
+	public static void main(String[] args) {
+    // rational oprators == != <= >= < > 
+
+int a=10,b=20;
+ System.out.println(a==b);
+ System.out.println(a!=b);
+ System.out.println(a<=b);
+ System.out.println(a>=b);
+ System.out.println(a<b);
+ System.out.println(a>b);
+
+
+}
+
+}

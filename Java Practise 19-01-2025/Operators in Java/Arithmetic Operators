@@ -1,0 +1,20 @@
+// Arithmetic Operators 
+
+package ParcticeDemo;
+
+public class All_Java 
+{
+
+	
+	public static void main(String[] args) 
+      {
+        int a=10;
+        int b=20;
+    System.out.println("additon: " + (a+b));
+		System.out.println("sub: " + (b-a));
+		System.out.println("multi: " + (a*b));
+		System.out.println("divide: " + (a/b));
+		System.out.println("Per : " + (a%b));
+      }
+
+}

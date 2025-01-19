@@ -1,0 +1,19 @@
+package ParcticeDemo;
+
+public class Student Info {
+
+	
+	public static void main(String[] args) {
+
+String name= "ram";
+int roll no= 5;
+char div='A';
+double marks=76.56;
+
+System.out.println("Student Name : " +name);
+System.out.println("Student Roll No. : " +roll no);
+System.out.println("Student division : " +div);
+System.out.println("Student marks : " +marks);
+
+    }
+}

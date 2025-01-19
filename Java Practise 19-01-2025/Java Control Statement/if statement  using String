@@ -1,0 +1,13 @@
+package ParcticeDemo;
+
+public class If_Statement{
+
+	public static void main(String[] args) {
+
+    int age=18;
+    String s=(age>18)?"Eligible":"Not Eligible";
+
+System.out.println(s);
+
+    }
+}

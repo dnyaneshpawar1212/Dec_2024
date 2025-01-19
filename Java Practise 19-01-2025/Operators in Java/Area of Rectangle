@@ -1,0 +1,16 @@
+package ParcticeDemo;
+
+public class rectangle {
+
+	public static void main(String[] args) {
+	//area of rectangle ar=le*br
+		
+		int le=10, br=20,ar;
+		
+		ar=le*br;
+		
+		System.out.println("area of rectangle:" + ar);
+
+      }
+}
+		

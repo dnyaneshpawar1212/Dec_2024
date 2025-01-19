@@ -1,0 +1,14 @@
+package ParcticeDemo;
+
+public class Do_while_loop {
+	
+	public static void main(String[] args) {
+      int z=8;
+		do
+		{
+			System.out.println(z);
+			z+=2;
+		}
+		while(z<=10);
+  }
+}

@@ -4,7 +4,7 @@ public class All_Java {
 	
 	public static void main(String[] args) {
 	
-    // rational oprators == != < > <= >=
+    // rational oprators == != < > <= >=    Only Writtens Boolean values(T/F)
 
     int a=10,b=20;
     

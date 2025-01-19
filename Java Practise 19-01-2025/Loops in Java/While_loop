@@ -1,0 +1,24 @@
+package ParcticeDemo;
+
+public class While_loop {
+
+	public static void main(String[] args) {
+		int x=0;
+		
+		while(x<=10)
+		{
+			System.out.println(x);
+			x+=2;
+		}
+
+//other example
+	
+int y=50;
+		
+		while(y<=100)
+		{
+			System.out.println(y);
+			y+=10;
+		}
+ }
+}

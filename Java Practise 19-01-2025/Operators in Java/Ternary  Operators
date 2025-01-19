@@ -1,0 +1,15 @@
+
+package ParcticeDemo;
+
+public class All_Java {
+
+	public static void main(String[] args) {
+	
+		//ternary operator  var=(cond)?r1=r2;
+
+		int d=10,e=20,r1=d+1,r2=e+5,res;
+		 res=(d>=e)?r1:r2;
+		System.out.println(res);
+
+      }  
+	}

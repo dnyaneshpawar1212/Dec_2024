@@ -1,0 +1,20 @@
+package ParcticeDemo;
+
+public class All_Java {
+	
+	public static void main(String[] args) {
+
+//Increment & Decrement ++ -- 
+
+int =10,b=20;
+
+		//a++;  /  a=a+1;
+    //b++;  /  b=b+1;
+
+		System.out.println("Pre increment: " +(++a));
+	//	System.out.println("Post Increment: " + (a++));
+		System.out.println("Pre decrement: " + (--b));
+	//	System.out.println("Post decrement: " + (b--));
+
+        }
+}

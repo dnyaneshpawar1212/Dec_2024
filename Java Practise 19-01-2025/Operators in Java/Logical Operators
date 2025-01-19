@@ -1,0 +1,21 @@
+package ParcticeDemo;
+
+public class All_Java {
+
+	
+	public static void main(String[] args) {
+
+//Logical Operators  && || ! (it writtens only boolean values)
+
+boolean x=ture;
+boolean y=false;
+
+  	System.out.println("AND AND: " + (x && y));
+		System.out.println("OR OR: " + (x || y));
+		System.out.println("X NOT Equal: " + (!x));
+		System.out.println("Y NOT Equal: " + (!y));
+
+
+        }
+
+}

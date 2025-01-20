@@ -1,0 +1,20 @@
+package ParcticeDemo;
+
+import java.util.Arrays;
+
+public class SortingString_array {
+
+	public static void main(String[] args) {
+		
+		char s[]= {'D', 'B','C','A'};
+
+  //String s[]= {"Ram", "Shyam", "Appa", "Nikhal"};
+		
+		System.out.println("before sorting...:"  + Arrays.toString(s));
+
+	Arrays.sort(s);
+	
+	System.out.println("After sorting...."+ Arrays.toString(s));
+	}
+
+}
